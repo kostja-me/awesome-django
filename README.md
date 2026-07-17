@@ -506,6 +506,7 @@ _Django 5_
 - [Falco](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [BH2](https://codeberg.org/trey/bh2) - Get a new Django site started in a Djiffy
 - [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) - A Django, React, Tailwind, Webpack project boilerplate
+- [SpeedPy](https://github.com/speedpy/speedpy/) - The free, open-source Django SaaS boilerplate for the AI era.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
